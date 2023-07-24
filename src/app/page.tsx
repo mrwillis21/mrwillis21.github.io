@@ -19,7 +19,7 @@ export default function Home() {
         <a rel="me" className="group" aria-label="Follow me on Mastodon" href="https://hachyderm.io/@mattwillis">
           <SiMastodon size="1.5em" className="fill-slate-500 group-hover:fill-slate-800" />
         </a>
-        <a className="group" aria-label="Send me an email" href="mailto:contact@mrwillis.net">
+        <a className="group" aria-label="Send me an email" href="mailto:website@mrwillis.net">
           <SiGmail size="1.5em" className="fill-slate-500 group-hover:fill-slate-800" />
         </a>
       </div>
