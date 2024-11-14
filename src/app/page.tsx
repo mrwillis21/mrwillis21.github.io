@@ -16,9 +16,6 @@ export default function Home() {
         <a className="group" aria-label="View my profile on Github" href="https://github.com/mrwillis21" target="_blank">
           <SiGithub size="1.5em" className="fill-slate-500 group-hover:fill-slate-800" />
         </a>
-        <a rel="me" className="group" aria-label="Follow me on Mastodon" href="https://hachyderm.io/@mattwillis">
-          <SiMastodon size="1.5em" className="fill-slate-500 group-hover:fill-slate-800" />
-        </a>
         <a className="group" aria-label="Send me an email" href="mailto:website@mrwillis.net">
           <SiGmail size="1.5em" className="fill-slate-500 group-hover:fill-slate-800" />
         </a>
